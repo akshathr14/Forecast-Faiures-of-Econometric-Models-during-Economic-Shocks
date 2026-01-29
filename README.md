@@ -1,4 +1,4 @@
-# Econometric Forecast Failures During Economic Shocks
+# Forecast Failures of Econometric Models during Economic Shocks
 
 ### Project Objective
 This research evaluates the forecasting limitations of statistically significant econometric models during extreme market volatility, specifically focusing on the 2007-08 Global Financial Crisis and the 2020 COVID-19 Pandemic.
